@@ -59,6 +59,17 @@ Go to your root directory and start your web app:
 ```javascript
 npm run dev
 ```
+SCREENSHOTS
+->Header and input section
+![Screenshot 2025-05-15 015251](https://github.com/user-attachments/assets/b498f727-6433-4ede-a765-c2b5c651d4cc)
+->Weather updates in celsius and Fahrenheit for different pincodes of usa
+![Screenshot 2025-05-15 015307](https://github.com/user-attachments/assets/434a5d58-4298-45b6-86f3-df0a15cfc87f)
+![Screenshot 2025-05-15 015329](https://github.com/user-attachments/assets/46dec90e-79d2-46af-9431-fe33da61b443)
+![Screenshot 2025-05-15 015355](https://github.com/user-attachments/assets/77bdb620-60f2-4364-9c28-bc6576212fc4)
+->Here we can see that google provides the weather report of New York we can see that they are approximately similar to our weather app output
+![Screenshot 2025-05-15 015459](https://github.com/user-attachments/assets/0016193d-0c89-42aa-87bd-ed0e6d1d3b1e)
+
+
 This is command will your client and server concurrently. 
 - client - localhost:3000
 - server - localhost:5000
