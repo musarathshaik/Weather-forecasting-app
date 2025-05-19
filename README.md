@@ -13,11 +13,6 @@ Prereq apps to have downloaded
 - [Node](https://nodejs.org/en/) 
 - [git](https://git-scm.com/downloads)
 
-Clone the repo:
-```
-git clone https://github.com/JinKim7/mern-weather-app.git
-```
-
 Download all npm packages for both client/server
 ```javascript
 npm run setup
